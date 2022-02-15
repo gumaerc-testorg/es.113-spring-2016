@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding ancient Greek philosophy
   and mathematics: Meno by Plato.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf28712c74d94ae88a474376a61cf0_MITES_113S16_Meno.pdf
+file: /media/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf28712c74d94ae88a474376a61cf0_MITES_113S16_Meno.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: ES.113 S16 Meno by Plato
 uid: dacf2871-2c74-d94a-e88a-474376a61cf0
