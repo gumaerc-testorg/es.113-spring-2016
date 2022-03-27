@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 131f25a2-dbfd-a732-2276-cf45f2eb8168
 resourcetype: Document
 title: "ES.113 S16 Summary of Aristotle\u2019s Categories"
 uid: 5b13b27d-d04b-d894-70ea-ac7449b8d185

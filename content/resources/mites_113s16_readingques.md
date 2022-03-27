@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 131f25a2-dbfd-a732-2276-cf45f2eb8168
 resourcetype: Document
 title: ES.113 S16 Study Guide
 uid: 984c636c-a2ef-65f4-0d20-3d6b4758a9d0

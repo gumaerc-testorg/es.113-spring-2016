@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 131f25a2-dbfd-a732-2276-cf45f2eb8168
 resourcetype: Document
 title: ES.113 S16 Meno by Plato
 uid: dacf2871-2c74-d94a-e88a-474376a61cf0

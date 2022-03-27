@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 131f25a2-dbfd-a732-2276-cf45f2eb8168
 resourcetype: Document
 title: "ES.113 S16 Instructors Guide to Reading Euclid\u2019s Elements"
 uid: e69bd5e1-9d47-2d89-8b5e-d62ac39dc7b8

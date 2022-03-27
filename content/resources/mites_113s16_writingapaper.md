@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 28f4ae4b-1194-e800-c1d2-e1a0fe0f9645
 resourcetype: Document
 title: ES.113 S16 Writing a Paper for Me
 uid: 5bde9a14-b90b-5aaf-1421-7b6963aff12f
