@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 28f4ae4b-1194-e800-c1d2-e1a0fe0f9645
 ---
 
-[Writing a Paper for Me (PDF)]({{< baseurl >}}/resources/mites_113s16_writingapaper)
+{{< resource_link 5bde9a14-b90b-5aaf-1421-7b6963aff12f "Writing a Paper for Me (PDF)" >}}
 
 First Paper Topics
 ------------------
