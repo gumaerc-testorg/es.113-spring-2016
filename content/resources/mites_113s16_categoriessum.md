@@ -6,6 +6,7 @@ file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/5b13b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "ES.113 S16 Summary of Aristotle\u2019s Categories"
 uid: 5b13b27d-d04b-d894-70ea-ac7449b8d185
 ---
 This resource contains information regarding ancient Greek philosophy and mathematics: Summary of Aristotle’s categories.
-

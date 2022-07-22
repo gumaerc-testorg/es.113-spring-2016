@@ -6,6 +6,7 @@ file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/fa90a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ES.113 S16 Definitions of Arithmos and Unit
 uid: fa90abe7-39bb-a35d-7974-268ef01de170
 ---
 This resource contains information regarding ancient Greek philosophy and mathematics: Definitions of arithmos and unit.
-

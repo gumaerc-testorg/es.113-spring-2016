@@ -6,6 +6,7 @@ file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ES.113 S16 Meno by Plato
 uid: dacf2871-2c74-d94a-e88a-474376a61cf0
 ---
 This resource contains information regarding ancient Greek philosophy and mathematics: Meno by Plato.
-
