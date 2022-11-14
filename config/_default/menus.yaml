@@ -15,7 +15,3 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 40
-- identifier: 9d3ccdcf-a93a-44a0-3fd9-63db74f30630
-  name: Related Resources
-  url: /pages/related-resources
-  weight: 50
