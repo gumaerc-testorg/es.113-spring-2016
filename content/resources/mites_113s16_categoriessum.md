@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding ancient Greek philosophy\
   \ and mathematics: Summary of Aristotle\u2019s categories."
 file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/5b13b27dd04bd89470eaac7449b8d185_MITES_113S16_CategoriesSum.pdf
+file_size: 208161
 file_type: application/pdf
 learning_resource_types:
 - Readings
