@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding ancient Greek philosophy
   and mathematics: Meno by Plato.'
-file: /ol-ocw-studio-app/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf28712c74d94ae88a474376a61cf0_MITES_113S16_Meno.pdf
+file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/dacf28712c74d94ae88a474376a61cf0_MITES_113S16_Meno.pdf
 file_size: 1078499
 file_type: application/pdf
 learning_resource_types:

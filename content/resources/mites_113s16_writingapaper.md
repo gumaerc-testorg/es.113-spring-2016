@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding ancient Greek philosophy
   and mathematics: Writing a paper for me.'
-file: /ol-ocw-studio-app/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/5bde9a14b90b5aaf14217b6963aff12f_MITES_113S16_WritingaPaper.pdf
+file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/5bde9a14b90b5aaf14217b6963aff12f_MITES_113S16_WritingaPaper.pdf
 file_size: 620185
 file_type: application/pdf
 learning_resource_types:
