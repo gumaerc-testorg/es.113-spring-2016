@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding ancient Greek philosophy
   and mathematics: Definitions of arithmos and unit.'
-file: /courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/fa90abe739bba35d7974268ef01de170_MITES_113S16_Arithmos.pdf
+file: /ol-ocw-studio-app/courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016/fa90abe739bba35d7974268ef01de170_MITES_113S16_Arithmos.pdf
 file_size: 598808
 file_type: application/pdf
 learning_resource_types:
