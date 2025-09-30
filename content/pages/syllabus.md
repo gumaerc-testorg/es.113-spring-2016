@@ -30,7 +30,7 @@ Assignments
 
 There is a substantial amount of readings for this course. You may want to purchase the following texts:
 
-Plato. [_Theaetetus_](http://classics.mit.edu/Plato/theatu.html). CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505227550.
+Plato. {{% resource_link "a4329b09-700b-4689-b623-5def8d74646f" "_Theaetetus_" %}}. CreateSpace Independent Publishing Platform, 2014. ISBN: 9781505227550.
 
 Aristotle. _The Nichomachean Ethics_. Penguin Classics, 2004. ISBN: 9780140449495.
 
